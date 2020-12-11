@@ -8,7 +8,6 @@ Some of the benefites of enabling/allowing it are:
 
 - Being able to test to see if a resource is up.
 - Checking round-trip time
-- 
 
 What else do you need?
 
