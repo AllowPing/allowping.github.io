@@ -1,6 +1,4 @@
 ---
 layout: page
-title: Welcome to my site!
+title: An homage to ping!
 ---
-
-Allowing ping is a very useful feature.
