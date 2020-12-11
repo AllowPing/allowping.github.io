@@ -14,3 +14,5 @@ What else do you need?
 ### My story
 
 Learn more [here](https://en.wikipedia.org/wiki/Ping_(networking_utility))!
+
+<img title="a title" alt="Alt text" src="/assets/imag/avatar-icon2.png">
